@@ -1,0 +1,15 @@
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/bin/Debug/net6.0/TaxPayerSystem
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/bin/Debug/net6.0/TaxPayerSystem.deps.json
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/bin/Debug/net6.0/TaxPayerSystem.runtimeconfig.json
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/bin/Debug/net6.0/TaxPayerSystem.dll
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/bin/Debug/net6.0/ref/TaxPayerSystem.dll
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/bin/Debug/net6.0/TaxPayerSystem.pdb
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/TaxPayerSystem.csproj.AssemblyReference.cache
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/TaxPayerSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/TaxPayerSystem.AssemblyInfoInputs.cache
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/TaxPayerSystem.AssemblyInfo.cs
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/TaxPayerSystem.csproj.CoreCompileInputs.cache
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/TaxPayerSystem.dll
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/ref/TaxPayerSystem.dll
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/TaxPayerSystem.pdb
+/home/victorvale20/dev/CourseExercise POO/ExercicioProposto/TaxPayerSystem/obj/Debug/net6.0/TaxPayerSystem.genruntimeconfig.cache
