@@ -4,3 +4,5 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea/
+bin/Debug/net6.0/
+.idea/.idea.TaxPayerSystem.dir/.idea/
